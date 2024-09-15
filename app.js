@@ -12,5 +12,7 @@ const p_tag = document.querySelector("#memo")
 p_tag.classList.add("hakuna");
 p_tag.classList.remove("hakuna");
 p_tag.classList.toggle("hakuna");
-p_tag.classList.toggle("hakuna");
+const h4_tag = document.createElement("h4");
+h4_tag.innerText= "hakuna matat"
+console.log(h4_tag);
 
