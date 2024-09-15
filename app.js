@@ -11,4 +11,5 @@ console.log(div_tag);
 const p_tag = document.querySelector("#memo")
 p_tag.classList.add("hakuna");
 p_tag.classList.remove("hakuna");
+p_tag.classList.toggle("hakuna");
 
