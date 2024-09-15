@@ -32,3 +32,6 @@ btnRemove.addEventListener("click",() =>{
 btnToggle.addEventListener("click",() =>{
     h1_tag.classList.toggle("hakuna")
 })
+btnToggle.addEventListener("click",() =>{
+    h1_tag.classList.toggle("hakuna")
+})
