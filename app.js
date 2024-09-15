@@ -15,4 +15,5 @@ p_tag.classList.toggle("hakuna");
 const h4_tag = document.createElement("h4");
 h4_tag.innerText= "hakuna matat"
 console.log(h4_tag);
+console.log(h4_tag);
 
